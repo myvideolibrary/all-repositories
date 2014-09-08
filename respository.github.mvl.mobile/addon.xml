@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.github.mvl.mobile" name="MVL Skin and Addon" version="1.0.0" provider-name="Mukto Software Ltd.">
+	<extension point="xbmc.addon.repository" name="MVL Skin and Addon">
+		<info compressed="false">https://raw.github.com/ashikzk/mvl-staging/master/addons.xml</info>
+		<checksum>https://raw.github.com/ashikzk/mvl-staging/master/addons.xml.md5</checksum>
+		<datadir zip="true">http://raw.github.com/ashikzk/mvl-staging/master/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>Install skin and addon from MVL. This is staging version.</summary>
+		<description>MVL default skin and video addon. Developed by Mukto Software Ltd. (http://www.muktosoft.com)</description>
+		<platform>all</platform>
+	</extension>
+</addon>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.github.mvl.one.gotham" name="MVL Skin and Addon for Gotham based MVL ONE" version="1.0.0" provider-name="Mukto Software Ltd.">
+	<extension point="xbmc.addon.repository" name="MVL One (Gotham) Skin and Addon Repo">
+		<info compressed="false">https://raw.github.com/ashikzk/mvl-one-gotham/master/addons.xml</info>
+		<checksum>https://raw.github.com/ashikzk/mvl-one-gotham/master/addons.xml.md5</checksum>
+		<datadir zip="true">http://raw.github.com/ashikzk/mvl-one-gotham/master/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>Install skins from MVL</summary>
+		<description>MVL Defaul Skin by Mukto Software Ltd.</description>
+		<platform>all</platform>
+	</extension>
+</addon>
